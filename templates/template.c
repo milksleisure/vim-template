@@ -2,7 +2,7 @@
  *
  * Filename: %FFILE%
  * Author: %USER% <%MAIL%>
- * Created: %YEAR% 
+ * Created: %DATE% 
  *
  **************************************************
  */
