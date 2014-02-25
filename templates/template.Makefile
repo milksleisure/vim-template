@@ -1,11 +1,10 @@
+##################################################
 #
-# %FFILE%
-# %USER%, %FDATE%
+# Filename: %FFILE%
+# Author: %USER% <%MAIL%>
+# Created: %DATE% 
+# Description: %HERE%
 #
+##################################################/
 
 all:
-	%HERE%@echo "%FFILE% needs your attention"
-
-
-# vim:ft=make
-#
